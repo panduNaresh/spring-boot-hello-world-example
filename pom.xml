@@ -8,6 +8,7 @@
 		<version>2.2.2.BUILD-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+	 <packaging>war</packaging>
 	<groupId>com.javatpoint</groupId>
 	<artifactId>spring-boot-hello-world-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
